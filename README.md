@@ -44,8 +44,8 @@ It’s an **affordable IoT-based solution** for home security and automation, pe
 
 1. **Clone Repository**  
    ```bash
-  git clone https://github.com/Ishan-Upadhyay90/ESP8266-PIR-Motion-Sensor-with-Blynk-Alerts-Buzzer-Melody-LED-Control.git
-  cd ESP8266-PIR-Motion-Sensor-with-Blynk-Alerts-Buzzer-Melody-LED-Control
+     git clone https://github.com/Ishan-Upadhyay90/ESP8266-PIR-Motion-Sensor-with-Blynk-Alerts-Buzzer-Melody-LED-Control.git
+     cd ESP8266-PIR-Motion-Sensor-with-Blynk-Alerts-Buzzer-Melody-LED-Control
 ### Setup Instructions
 
 2. **Install Arduino IDE Libraries**
@@ -84,7 +84,7 @@ It’s an **affordable IoT-based solution** for home security and automation, pe
 
 ## 🚀 How to Use
 
-1. Open the `motion_detector.ino` file in **Arduino IDE**.
+1. Open the `pir_motion.ino` file in **Arduino IDE**.
 
 2. Replace the following placeholders with your own details:
    ```cpp
