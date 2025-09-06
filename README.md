@@ -81,3 +81,16 @@ It’s an **affordable IoT-based solution** for home security and automation, pe
    - Connect your board via USB
    - Select the correct **Port** under Tools
    - Click **Upload** to flash the code
+
+## 🚀 How to Use
+
+1. Open the `motion_detector.ino` file in **Arduino IDE**.
+
+2. Replace the following placeholders with your own details:
+   ```cpp
+   #define BLYNK_TEMPLATE_ID   "YourTemplateID"
+   #define BLYNK_TEMPLATE_NAME "YourTemplateName"
+   #define BLYNK_AUTH_TOKEN    "YourAuthToken"
+
+   const char *ssid = "YourWiFiSSID";     // Enter your Wi-Fi Name
+   const char *pass = "YourWiFiPassword"; // Enter your Wi-Fi Password
